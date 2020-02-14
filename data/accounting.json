@@ -1,0 +1,562 @@
+[
+  {
+    "costcenter": "cc123",
+    "product": "apples",
+    "amount": 20
+  },
+  {
+    "costcenter": "cc333",
+    "product": "butter",
+    "amount": 1
+  },
+  {
+    "costcenter": "cc123",
+    "product": "bread",
+    "amount": 2.5
+  },
+  {
+    "costcenter": "cc4711",
+    "product": "butter",
+    "amount": 2
+  },
+  {
+    "costcenter": "cc232",
+    "product": "milk",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc120",
+    "product": "milk",
+    "amount": 2
+  },
+  {
+    "costcenter": "cc333",
+    "product": "oranges",
+    "amount": 2
+  },
+  {
+    "costcenter": "cc123",
+    "product": "bread",
+    "amount": 2
+  },
+  {
+    "costcenter": "cc333",
+    "product": "meat",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc777",
+    "product": "bread",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc932",
+    "product": "fish",
+    "amount": 2
+  },
+  {
+    "costcenter": "cc324",
+    "product": "oranges",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc212",
+    "product": "bread",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc910",
+    "product": "grapes",
+    "amount": 18
+  },
+  {
+    "costcenter": "cc834",
+    "product": "meat",
+    "amount": 4.2
+  },
+  {
+    "costcenter": "cc345",
+    "product": "milk",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc7421",
+    "product": "grapes",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc123",
+    "product": "fish",
+    "amount": 2
+  },
+  {
+    "costcenter": "cc849",
+    "product": "butter",
+    "amount": 0.4
+  },
+  {
+    "costcenter": "cc173",
+    "product": "bread",
+    "amount": 7.5
+  },
+  {
+    "costcenter": "cc4711",
+    "product": "butter",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc737",
+    "product": "milk",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc170",
+    "product": "milk",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc333",
+    "product": "oranges",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc173",
+    "product": "bread",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc333",
+    "product": "meat",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc777",
+    "product": "bread",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc937",
+    "product": "fish",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc374",
+    "product": "oranges",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc717",
+    "product": "bread",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc910",
+    "product": "grapes",
+    "amount": 18
+  },
+  {
+    "costcenter": "cc834",
+    "product": "meat",
+    "amount": 4.7
+  },
+  {
+    "costcenter": "cc345",
+    "product": "milk",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc7471",
+    "product": "grapes",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc173",
+    "product": "fish",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc849",
+    "product": "butter",
+    "amount": 0.4
+  },
+  {
+    "costcenter": "cc333",
+    "product": "meat",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc999",
+    "product": "bread",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc912",
+    "product": "fish",
+    "amount": 2
+  },
+  {
+    "costcenter": "cc124",
+    "product": "oranges",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc212",
+    "product": "bread",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc910",
+    "product": "grapes",
+    "amount": 18
+  },
+  {
+    "costcenter": "cc814",
+    "product": "meat",
+    "amount": 4.2
+  },
+  {
+    "costcenter": "cc145",
+    "product": "milk",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc9421",
+    "product": "grapes",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc121",
+    "product": "fish",
+    "amount": 2
+  },
+  {
+    "costcenter": "cc849",
+    "product": "butter",
+    "amount": 0.4
+  },
+  {
+    "costcenter": "cc191",
+    "product": "bread",
+    "amount": 9.5
+  },
+  {
+    "costcenter": "cc4911",
+    "product": "butter",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc919",
+    "product": "milk",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc190",
+    "product": "milk",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc111",
+    "product": "oranges",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc191",
+    "product": "bread",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc111",
+    "product": "meat",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc999",
+    "product": "bread",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc919",
+    "product": "fish",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc123",
+    "product": "apples",
+    "amount": 20
+  },
+  {
+    "costcenter": "cc333",
+    "product": "butter",
+    "amount": 1
+  },
+  {
+    "costcenter": "cc123",
+    "product": "beer",
+    "amount": 2.5
+  },
+  {
+    "costcenter": "cc4711",
+    "product": "butter",
+    "amount": 2
+  },
+  {
+    "costcenter": "cc232",
+    "product": "milk",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc120",
+    "product": "milk",
+    "amount": 2
+  },
+  {
+    "costcenter": "cc333",
+    "product": "oranges",
+    "amount": 2
+  },
+  {
+    "costcenter": "cc123",
+    "product": "beer",
+    "amount": 2
+  },
+  {
+    "costcenter": "cc333",
+    "product": "meat",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc777",
+    "product": "beer",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc932",
+    "product": "fish",
+    "amount": 2
+  },
+  {
+    "costcenter": "cc324",
+    "product": "oranges",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc212",
+    "product": "beer",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc910",
+    "product": "grapes",
+    "amount": 18
+  },
+  {
+    "costcenter": "cc834",
+    "product": "meat",
+    "amount": 4.2
+  },
+  {
+    "costcenter": "cc345",
+    "product": "milk",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc7421",
+    "product": "grapes",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc123",
+    "product": "fish",
+    "amount": 2
+  },
+  {
+    "costcenter": "cc849",
+    "product": "butter",
+    "amount": 0.4
+  },
+  {
+    "costcenter": "cc173",
+    "product": "beer",
+    "amount": 7.5
+  },
+  {
+    "costcenter": "cc4711",
+    "product": "butter",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc737",
+    "product": "milk",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc170",
+    "product": "milk",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc333",
+    "product": "oranges",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc173",
+    "product": "beer",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc333",
+    "product": "meat",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc777",
+    "product": "beer",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc937",
+    "product": "fish",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc374",
+    "product": "oranges",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc717",
+    "product": "beer",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc910",
+    "product": "grapes",
+    "amount": 18
+  },
+  {
+    "costcenter": "cc834",
+    "product": "meat",
+    "amount": 4.7
+  },
+  {
+    "costcenter": "cc345",
+    "product": "milk",
+    "amount": 7
+  },
+  {
+    "costcenter": "cc7471",
+    "product": "grapes",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc173",
+    "product": "fish",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc849",
+    "product": "butter",
+    "amount": 0.4
+  },
+  {
+    "costcenter": "cc333",
+    "product": "meat",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc999",
+    "product": "beer",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc912",
+    "product": "fish",
+    "amount": 2
+  },
+  {
+    "costcenter": "cc124",
+    "product": "oranges",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc212",
+    "product": "beer",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc910",
+    "product": "grapes",
+    "amount": 18
+  },
+  {
+    "costcenter": "cc814",
+    "product": "meat",
+    "amount": 4.2
+  },
+  {
+    "costcenter": "cc145",
+    "product": "milk",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc9421",
+    "product": "grapes",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc121",
+    "product": "fish",
+    "amount": 2
+  },
+  {
+    "costcenter": "cc849",
+    "product": "butter",
+    "amount": 0.4
+  },
+  {
+    "costcenter": "cc191",
+    "product": "beer",
+    "amount": 9.5
+  },
+  {
+    "costcenter": "cc4911",
+    "product": "butter",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc919",
+    "product": "milk",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc190",
+    "product": "milk",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc111",
+    "product": "oranges",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc191",
+    "product": "beer",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc111",
+    "product": "meat",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc999",
+    "product": "beer",
+    "amount": 9
+  },
+  {
+    "costcenter": "cc919",
+    "product": "fish",
+    "amount": 9
+  }
+]
